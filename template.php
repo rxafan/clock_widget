@@ -15,7 +15,7 @@
                 <div class="minute"></div>
             </div>
         </div>
-        <div class="footer__time_region">Matrix Capital
+        <div class="footer__time_region">
             <?= $city ?>
         </div>
     </div>
